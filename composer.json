@@ -1,6 +1,6 @@
 {
-    "name": "doowebdev/doo-validator",
-    "description": "A simple php validation script",
+    "name": "doowebdev/doo-validation",
+    "description": "A simple php form validation script",
     "minimum-stability": "stable",
     "homepage": "https://github.com/doowebdev/doo-validation",
     "keywords": ["validation","form validation","validator", "PHP form validation"],
