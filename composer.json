@@ -1,0 +1,32 @@
+{
+    "name": "doowebdev/doo-validator",
+    "description": "A simple php validation script",
+    "minimum-stability": "stable",
+    "homepage": "https://github.com/doowebdev/doo-validation",
+    "keywords": ["validation","form validation","validator", "PHP form validation"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Freddie Annobil",
+            "homepage": "http://doowebdev.com",
+            "role": "Developer"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.4.0"
+    },
+
+    "autoload": {
+
+        "psr-4":{
+            "Doowebdev\\": "src"
+        }
+    }
+
+
+
+
+
+
+}
