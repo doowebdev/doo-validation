@@ -1,6 +1,6 @@
 <?php
 
-namespace Doowebdev;
+namespace DooValidator;
 
 
 class DooFormValidationException extends \Exception{
